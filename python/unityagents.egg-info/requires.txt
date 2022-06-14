@@ -1,0 +1,15 @@
+Pillow
+docopt
+grpcio
+ipykernel
+jupyter
+matplotlib
+numpy
+pandas
+protobuf
+pytest
+pyyaml
+scipy
+tensorflow
+torch
+tqdm
